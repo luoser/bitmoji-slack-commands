@@ -9,6 +9,7 @@ that sucks
 i hate you
 lol wat
 nope
+tuesday
 u get me
 why me
 good call
