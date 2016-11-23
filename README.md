@@ -5,6 +5,7 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 
 ```
 woohoo
+happy
 that sucks
 i hate you
 lol wat
