@@ -7,6 +7,7 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 surfing
 woohoo
 happy
+do it
 thank you
 thanks
 that sucks
