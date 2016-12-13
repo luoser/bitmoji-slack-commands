@@ -6,6 +6,9 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 ```
 shame
 don't play
+facepalm
+sick
+blushin
 hi you
 xmas
 i forgot
