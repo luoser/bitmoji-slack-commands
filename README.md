@@ -5,6 +5,7 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 
 ```
 current mood
+snowman
 beach
 shame
 don't play
