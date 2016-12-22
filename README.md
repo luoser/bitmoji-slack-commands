@@ -1,5 +1,5 @@
 ## best joint slack bitmoji commands
-yes, i have been collecting these throughout my work days. no, they are not ordered in any way.
+yes, i have been collecting these throughout my work days. no, they are not ordered in any way, except i started putting recent ones up top.
 
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
