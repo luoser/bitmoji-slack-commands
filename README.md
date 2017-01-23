@@ -4,6 +4,8 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
+what up fam
+hubba hubba
 sloth
 new year new me
 santa's lap
