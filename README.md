@@ -8,6 +8,8 @@ oopsie woopsie
 hate myself
 cuddles
 you bet
+hey
+champagne
 one love
 you guys suck
 chinese new year
