@@ -13,6 +13,7 @@ hate myself
 cuddles
 you bet
 hey
+limo
 champagne
 one love
 you guys suck
@@ -35,6 +36,7 @@ facepalm
 sick
 blushin
 hi you
+photo
 xmas
 i forgot
 surfing
@@ -73,6 +75,7 @@ hole
 tired
 dead
 saturday
+hello
 burger
 hot
 sunny
