@@ -4,6 +4,12 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
+bad ass
+i hear ya
+knock knock
+besties
+life is hard
+L
 gtfo
 bruh
 cheerio
