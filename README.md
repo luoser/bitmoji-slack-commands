@@ -36,6 +36,7 @@ facepalm
 sick
 blushin
 hi you
+photo
 xmas
 i forgot
 surfing
