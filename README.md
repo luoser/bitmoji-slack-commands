@@ -6,6 +6,8 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 ```
 petty af
 fake news
+tumbleweed
+spit take
 achoo
 woke
 dope
