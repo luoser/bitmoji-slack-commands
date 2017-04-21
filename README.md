@@ -4,6 +4,8 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
+daisy
+ayyy lmao
 petty af
 fake news
 tumbleweed
