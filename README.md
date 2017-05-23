@@ -5,6 +5,7 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 
 ```
 you got it
+can i help you
 avocado
 daisy
 math
