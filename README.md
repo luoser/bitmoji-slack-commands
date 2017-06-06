@@ -5,8 +5,13 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 
 ```
 ice cream
+chill
 y tho
 funnel
+woke
+rainbow
+not today
+drink
 challenge accepted
 no way
 cheerio
