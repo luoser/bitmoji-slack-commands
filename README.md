@@ -4,7 +4,15 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
+backpack
+salt shaker
+tennis
+heart balloons
+saxophone
+cup of tea
 ice cream
+blue heart
+alarm clock
 chill
 y tho
 funnel
