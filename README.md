@@ -6,6 +6,10 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 ```
 onion
 tree
+nah fam
+you had one job
+bacon
+rain
 watermelon
 lute
 guitar
