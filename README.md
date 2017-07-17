@@ -5,12 +5,13 @@ to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can
 
 ```
 dry
-turn up
-i love you dummy
-are you kidding me
-sleepy
-so extra
 zero chill
+so extra
+sleepy
+are you kidding me
+i love you dummy
+turn up
+cocktail
 onion
 tree
 nah fam
