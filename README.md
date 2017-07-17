@@ -4,6 +4,16 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
+karaoke
+you can do it
+dry
+zero chill
+so extra
+sleepy
+are you kidding me
+i love you dummy
+turn up
+cocktail
 onion
 tree
 nah fam
