@@ -4,159 +4,159 @@ yes, i have been collecting these throughout my work days. no, they are not orde
 to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
 
 ```
-karaoke
-you can do it
-dry
-zero chill
-so extra
-sleepy
-are you kidding me
-i love you dummy
-turn up
-cocktail
-onion
-tree
-nah fam
-you had one job
-bacon
-rain
-watermelon
-lute
-guitar
-egg
-sub
-grass
-uh huh
-smooch
-kiss
-heh
-uh oh
-hmph
-backpack
-salt shaker
-tennis
-heart balloons
-saxophone
-cup of tea
-ice cream
-blue heart
-alarm clock
-chill
-y tho
-funnel
-woke
-rainbow
-not today
-drink
-challenge accepted
-no way
-cheerio
-you got it
-can i help you
-avocado
-daisy
-math
-ayyy lmao
-petty af
-fake news
-tumbleweed
-spit take
 achoo
-woke
-dope
+alarm clock
+are you kidding me
+avocado
+ayyy lmao
+backpack
+bacon
 bad ass
-i hear ya
-knock knock
-besties
-life is hard
-L
-gtfo
-bruh
-cheerio
-that's cold
-oopsie woopsie
-hate myself
-cuddles
-you bet
-hey
-limo
-champagne
-one love
-you guys suck
-chinese new year
-go me
-what up fam
-bedtime
-hubba hubba
-sloth
-new year new me
-santa's lap
-ice
-current mood
-snowman
-car
+bath
 beach
-shame
-don't play
-facepalm
-sick
+bedtime
+besties
+blue heart
 blushin
-hi you
-photo
-xmas
-i forgot
-surfing
-woohoo
-happy
+bruh
+brutal
+burger
+can i help you
+car
+challenge accepted
+champagne
+cheerio
+cheerio
+cheers
+chill
+chinese new year
+cocktail
+coffee
+cuddles
+cuddles
+cup of tea
+current mood
+dab
+daisy
+dead
 do it
+don't play
+dope
+drink
+dry
+egg
+facepalm
+fail
+fake news
+food
+fu
+funnel
+giddy up
+giggle
+go me
+go you
+good call
+good night
+grass
+gtfo
+guitar
+happy
+happy valentine's day
+hate myself
+heart balloons
+heh
+hello
+hey
+hi you
+high five
+hmph
+hole
+hot
+hot dog
+hubba hubba
+i forgot
+i hate you
+i hear ya
+i like
+i love you dummy
+i woke up like this
+ice
+ice cream
+jump
+karaoke
+kiss
+knock knock
+L
+life is hard
+limo
+lit
+lol wat
+lute
+math
+miss you
+miss you
+nah fam
+new year new me
+no way
+nope
+not today
+one love
+onion
+oopsie woopsie
+party
+peas in a pod
+petty af
+photo
+rain
+rainbow
+regrets
+salt shaker
+santa's lap
+saturday
+saxophone
+shame
+sick
+sleepy
+sloth
+smooch
+snowman
+so extra
+spit take
+spooky
+stay tuned
+sub
+sunny
+surfing
+sweet
+team awesome
+tennis
 thank you
 thanks
 that sucks
-i hate you
-lol wat
-nope
-tuesday
-u get me
-why me
-good call
-dab
-good night
-regrets
-happy valentine's day
-spooky
-fu
-cheers
-fail
-coffee
-woe is me
-peas in a pod
-we got this
-food
-team awesome
-jump
-sweet
-hot dog
-miss you
-hole
-tired
-dead
-saturday
-hello
-burger
-hot
-sunny
-lit
-high five
-party
-miss you
+that's cold
 thinking about you
-i woke up like this
-giddy up
-brutal
-stay tuned
-giggle
-go you
-i like
-bath
-cuddles
+tired
+tree
+tuesday
+tumbleweed
+turn up
+u get me
+uh huh
+uh oh
+watermelon
+we got this
+what up fam
+why me
+woe is me
+woke
+woke
+woohoo
+xmas
+y tho
+you bet
+you can do it
+you got it
+you guys suck
+you had one job
+zero chill
 ```
