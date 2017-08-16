@@ -1,7 +1,7 @@
 ## best joint slack bitmoji commands
-yes, i have been collecting these throughout my work days. no, they are not ordered in any way, except i started putting recent ones up top.
+yes, i have been collecting these throughout my work days.
 
-to see the joint bitmoji just type `/bitmoji @username command`. hot tip you can also @yourself.
+to see the joint bitmoji just type `/bitmoji @username command`. HOT TIP you can also @yourself.
 
 ```
 achoo
@@ -48,18 +48,21 @@ egg
 facepalm
 fail
 fake news
+fishing
 food
 fu
 funnel
 giddy up
 giggle
 go me
+go team
 go you
 good call
 good night
 grass
 gtfo
 guitar
+hacky sack
 happy
 happy valentine's day
 hate myself
@@ -74,6 +77,7 @@ hole
 hot
 hot dog
 hubba hubba
+hula hoop
 i forgot
 i hate you
 i hear ya
@@ -94,14 +98,16 @@ lol wat
 lute
 math
 miss you
-miss you
+money
 nah fam
 new year new me
 no way
 nope
 not today
+oh dear
 one love
 onion
+oOoOo
 oopsie woopsie
 party
 peas in a pod
@@ -119,11 +125,13 @@ sick
 sleepy
 sloth
 smooch
+snapchat hot dog
 snowman
 so extra
 spit take
 spooky
 stay tuned
+storm
 sub
 sunny
 surfing
