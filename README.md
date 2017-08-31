@@ -23,6 +23,7 @@ brutal
 burger
 can i help you
 car
+cat
 challenge accepted
 champagne
 cheerio
@@ -40,6 +41,7 @@ dab
 daisy
 dead
 do it
+dog
 don't play
 dope
 drink
@@ -95,8 +97,10 @@ life is hard
 limo
 lit
 lol wat
+loser
 lute
 math
+meow
 miss you
 money
 nah fam
@@ -155,9 +159,11 @@ watermelon
 we got this
 what up fam
 why me
+winner
 woe is me
 woke
 woke
+woof
 woohoo
 xmas
 y tho
