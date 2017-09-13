@@ -25,8 +25,6 @@ can i help you
 car
 cat
 challenge accepted
-champagne
-cheerio
 cheerio
 cheers
 chill
