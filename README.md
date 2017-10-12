@@ -32,7 +32,6 @@ chinese new year
 cocktail
 coffee
 cuddles
-cuddles
 cup of tea
 current mood
 dab
@@ -119,7 +118,6 @@ rain
 rainbow
 regrets
 salt shaker
-santa's lap
 saturday
 saxophone
 shame
