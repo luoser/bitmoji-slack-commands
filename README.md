@@ -9,6 +9,7 @@ alarm clock
 are you kidding me
 avocado
 ayyy lmao
+baby
 backpack
 bacon
 bad ass
@@ -29,6 +30,7 @@ cheerio
 cheers
 chill
 chinese new year
+clutch
 cocktail
 coffee
 cuddles
@@ -85,14 +87,17 @@ i love you dummy
 i woke up like this
 ice
 ice cream
+iconic
 jump
 karaoke
 kiss
 knock knock
 L
+legend
 life is hard
 limo
 lit
+literally
 lol wat
 loser
 lute
@@ -117,6 +122,7 @@ photo
 rain
 rainbow
 regrets
+ridic
 salt shaker
 saturday
 saxophone
@@ -130,6 +136,7 @@ snowman
 so extra
 spit take
 spooky
+spotlight
 stay tuned
 storm
 sub
@@ -162,6 +169,7 @@ woof
 woohoo
 xmas
 y tho
+yay
 you bet
 you can do it
 you got it
