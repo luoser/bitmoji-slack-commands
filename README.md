@@ -32,7 +32,6 @@ chinese new year
 cocktail
 coffee
 cuddles
-cuddles
 cup of tea
 current mood
 dab
@@ -159,7 +158,6 @@ what up fam
 why me
 winner
 woe is me
-woke
 woke
 woof
 woohoo
