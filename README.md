@@ -118,7 +118,6 @@ rain
 rainbow
 regrets
 salt shaker
-santa's lap
 saturday
 saxophone
 shame
