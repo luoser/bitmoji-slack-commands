@@ -61,9 +61,11 @@ go you
 good call
 good night
 grass
+grilled cheese
 gtfo
 guitar
 hacky sack
+halloween
 happy
 happy valentine's day
 hate myself
@@ -119,10 +121,12 @@ party
 peas in a pod
 petty af
 photo
+pole dance
 rain
 rainbow
 regrets
 ridic
+salad
 salt shaker
 saturday
 saxophone
@@ -142,6 +146,7 @@ storm
 sub
 sunny
 surfing
+sushi
 sweet
 team awesome
 tennis
