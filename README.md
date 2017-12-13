@@ -55,6 +55,7 @@ fu
 funnel
 giddy up
 giggle
+gingerbread
 go me
 go team
 go you
@@ -66,6 +67,7 @@ gtfo
 guitar
 hacky sack
 halloween
+hamburger
 happy
 happy valentine's day
 hate myself
