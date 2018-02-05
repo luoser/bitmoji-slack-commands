@@ -46,6 +46,7 @@ dope
 drink
 dry
 egg
+eyes
 facepalm
 fail
 fake news
@@ -53,6 +54,7 @@ fishing
 food
 fu
 funnel
+ghosting
 giddy up
 giggle
 gingerbread
@@ -92,6 +94,7 @@ i woke up like this
 ice
 ice cream
 iconic
+infinity
 jump
 karaoke
 kiss
@@ -124,6 +127,7 @@ peas in a pod
 petty af
 photo
 pole dance
+poo
 rain
 rainbow
 regrets
@@ -132,6 +136,7 @@ salad
 salad bowl
 salt shaker
 saturday
+savage
 saxophone
 shame
 sick
@@ -143,9 +148,11 @@ snowman
 so extra
 spit take
 spooky
+spoon
 spotlight
 stay tuned
 storm
+streak
 sub
 sunny
 surfing
