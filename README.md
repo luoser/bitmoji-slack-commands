@@ -61,6 +61,7 @@ gingerbread
 go me
 go team
 go you
+gold medal
 good call
 good night
 grass
@@ -109,6 +110,7 @@ lol wat
 loser
 lute
 math
+me
 meow
 miss you
 money
@@ -139,7 +141,9 @@ saturday
 savage
 saxophone
 shame
+shrug
 sick
+sips tea
 sleepy
 sloth
 smooch
@@ -153,6 +157,7 @@ spotlight
 stay tuned
 storm
 streak
+stripper
 sub
 sunny
 surfing
