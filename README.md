@@ -80,6 +80,7 @@ hello
 hey
 hi you
 high five
+hilarious
 hmph
 hole
 hot
@@ -115,6 +116,7 @@ meow
 miss you
 money
 nah fam
+nap
 new year new me
 no way
 nope
@@ -169,6 +171,7 @@ thank you
 thanks
 that sucks
 that's cold
+the champ
 thinking about you
 tired
 tree
