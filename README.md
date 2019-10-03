@@ -40,9 +40,10 @@ dab
 daisy
 dead
 do it
+dope
 dog
 don't play
-dope
+donut
 drink
 dry
 egg
