@@ -1,7 +1,7 @@
-## best joint slack bitmoji commands
+## best Friendmoji slack commands!
 yes, i have been collecting these throughout my work days.
 
-to see the joint bitmoji just type `/bitmoji @username command`. HOT TIP you can also @yourself.
+to see the friendmoji just type `/bitmoji @username command`. HOT TIP you can also @yourself.
 
 ```
 achoo
